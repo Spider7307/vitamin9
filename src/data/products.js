@@ -24,3 +24,4 @@ const products = [
         image:"https://www.traderjoes.com/content/dam/trjo/context-images/53371-worlds-puffiest-corn-puffs-pdp.jpg/jcr:content/renditions/webp-1280.webp",
     }
 ]
+export default products;
