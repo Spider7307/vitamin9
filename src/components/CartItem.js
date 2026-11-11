@@ -41,7 +41,7 @@ function CartItem({ item }) {
                 <span>{item.quantity}</span>
                 <button className="btn btn-sm btn-secondary ms-2" onClick={handleIncrease}>+</button>
             </div>
-            <button className="btn btn-sm btn-danger" onClick={handleRemove}>Remove</button>
+            <button className="btn btn-sm btn-danger" onClick={handleRemove}></button>
         </div>
       </div>
     </div>
